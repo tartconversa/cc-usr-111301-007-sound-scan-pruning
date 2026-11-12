@@ -1,0 +1,32 @@
+{
+  "queries": [
+    {
+      "op": "not",
+      "arg": {
+        "op": "eq",
+        "field": "x",
+        "value": 1
+      }
+    },
+    {
+      "op": "gt",
+      "field": "x",
+      "value": 10
+    },
+    {
+      "op": "ge",
+      "field": "x",
+      "value": 10
+    },
+    {
+      "op": "is_null",
+      "field": "x"
+    },
+    {
+      "op": "in",
+      "field": "x",
+      "values": []
+    }
+  ],
+  "where_true_only": true
+}

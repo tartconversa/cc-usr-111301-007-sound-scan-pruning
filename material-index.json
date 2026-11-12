@@ -1,0 +1,27 @@
+[
+  {
+    "path": "fixtures/catalog.json",
+    "sha256": "48a7c890a4ce8c45e8154f272d5950953b9017f339e376d9dd059993a8cb0ded",
+    "size_bytes": 822
+  },
+  {
+    "path": "fixtures/data/p1.jsonl",
+    "sha256": "d94239a2aefa2d1ff3a6a577536e9f6500811d332a0ffc61f74dc86dc596f29d",
+    "size_bytes": 82
+  },
+  {
+    "path": "fixtures/data/p2.jsonl",
+    "sha256": "1b30f3da6b87cab5ffd083026554d8c1c56010ff67f34c98c21524dd501c2637",
+    "size_bytes": 32
+  },
+  {
+    "path": "fixtures/data/p3.jsonl",
+    "sha256": "bcd71ed3c4d0e8c337aedb0beb65b8d05a5ee09daa5ef6522fd47af9371ce815",
+    "size_bytes": 27
+  },
+  {
+    "path": "fixtures/predicates.json",
+    "sha256": "802f252024284e0a2a6e2ff21baa6246c80b451be78552dbb8642c92c1a9dba9",
+    "size_bytes": 428
+  }
+]
